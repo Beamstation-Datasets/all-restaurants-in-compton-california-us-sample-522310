@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Compton, California. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Compton, California, US",
+  "export_job_id": "0afcfa04-ce7e-4228-ba21-79e2fe5d81ec",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 522310,
+  "location_name": "Compton",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-compton-california-us-sample-522310",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/522310/beamstation_522310_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.64,
+  "sample_records": 24,
+  "sample_sha256": "50bdf0bd2322c881f9c8499d82a2d0da5212aa9f076aeab59937adcf53be3422",
+  "sample_size_bytes": 92623,
+  "total_records": 249,
+  "updated_at": "2026-04-09T15:39:06.823292+00:00"
+}
