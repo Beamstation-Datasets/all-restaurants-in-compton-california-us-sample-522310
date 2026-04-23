@@ -1,6 +1,6 @@
 # All Restaurants in Compton, California, US
 
-> Free BeamStation sample export with 24 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `522310` |
 | Location | Compton |
 | Category | Restaurants |
-| Full dataset size | 249 records |
-| Free sample size | 24 records (9.64%) |
-| Last export | 2026-04-16T18:21:37.200967+00:00 |
+| Full dataset size | 256 records |
+| Free sample size | 25 records (9.77%) |
+| Last export | 2026-04-23T14:36:51.326884+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-compton-california-us-sample-522310/releases/download/sample-latest/beamstation_522310_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
