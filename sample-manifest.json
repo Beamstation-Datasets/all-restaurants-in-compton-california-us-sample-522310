@@ -1,12 +1,12 @@
 {
-  "export_job_id": "703d71ad-3479-4bb1-936e-b4946c33e26e",
+  "export_job_id": "7f4a06d5-56e3-46e7-a28a-bc5198d5637e",
   "id_short": 522310,
-  "published_at": "2026-04-23T19:22:08Z",
+  "published_at": "2026-04-30T19:21:13Z",
   "repo_name": "all-restaurants-in-compton-california-us-sample-522310",
   "sample_asset_name": "beamstation_522310_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/522310/beamstation_522310_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 25,
-  "sample_sha256": "806b3661486aee8808d1b51dbe66d30180bae7debd5d067e39382feee379f2a5",
-  "sample_size_bytes": 96743,
-  "total_records": 256
+  "sample_sha256": "57e77a1321e18f5a33c9bffa733f5ba79a43189ed10c959c7c9f3179b829ddc7",
+  "sample_size_bytes": 85773,
+  "total_records": 255
 }
